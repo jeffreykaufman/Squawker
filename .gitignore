@@ -1,0 +1,15 @@
+# Node.js & npm
+node_modules/
+*.tgz
+npm-debug.log*
+package-lock.json
+.npm
+.node_repl_history
+
+# Logs
+logs/
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
