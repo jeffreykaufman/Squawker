@@ -7,10 +7,10 @@
     "main": "lib/index.js",
     "repository": "github:jeffreykaufman/Squawker",
     "devDependencies": {
-        "chai": "^4.1.2",
+        "chai": "^4.2.0",
         "mocha": "^5.2.0"
     },
     "dependencies": {
-        "musings": "^0.1.15"
+        "musings": "^0.2.0"
     }
 }
